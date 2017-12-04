@@ -1,2 +1,4 @@
 # hello-world
-thisi is  a repository
+this is  a repository
+
+I like node.js and coffeescript
